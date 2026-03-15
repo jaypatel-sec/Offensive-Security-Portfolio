@@ -2,9 +2,7 @@
 
 Dual offensive and defensive cybersecurity portfolio | March 2026 — January 2027
 
-**Target 1:** Alan Paller Cybersecurity Scholarship — SANS Technology Institute | Deadline: January 15, 2027
-
-**Target 2:** SOC Analyst Tier-1/2 role in India | Target: September–October 2026
+**Goal:** SOC Analyst Tier-1/2 role in India | Target: December 2026
 
 ---
 
