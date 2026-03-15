@@ -15,7 +15,7 @@ Dual offensive and defensive cybersecurity portfolio | March 2026 — January 20
 | Repository | What Is Inside | Status |
 |---|---|---|
 | [Active-Directory-Attack-Lab](https://github.com/jaypatel-sec/Active-Directory-Attack-Lab) | 9-step AD kill chain — LLMNR to DCSync — with full detection layer on every attack | 🔄 In Progress |
-| [CPTS-Academy-Notes](https://github.com/jaypatel-sec/CPTS-Academy-Notes) | All 28 HTB Academy CPTS modules — service-by-service enumeration with detection layers | 🔄 Module 3 Active |
+| [HTB-Academy-CPTS-Path](https://github.com/jaypatel-sec/HTB-Academy-CPTS-Path) | All 28 HTB Academy CPTS modules — service-by-service enumeration with detection layers | 🔄 Module 4 Active |
 | [HTB-TryHackMe-Writeups](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups) | Every retired HTB machine and TryHackMe room — full walkthrough + detection + MITRE mapping | 🔄 In Progress |
 | [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | 5 offensive Python tools — recon, exploitation, and post-exploitation automation | 🔄 In Progress |
 | [CTF-Writeups](https://github.com/jaypatel-sec/CTF-Writeups) | CTFtime competitions, SANS Holiday Hack 2026, THM Advent of Cyber 2026 | 🔄 Ongoing |
