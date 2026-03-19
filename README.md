@@ -2,7 +2,7 @@
 
 Dual offensive and defensive cybersecurity portfolio | March 2026 — January 2027
 
-**Goal:** SOC Analyst Tier-1/2 role in India | Target: December 2026
+**Goal:** Penetration Tester role in India | Target: January 2027
 
 ---
 
@@ -25,7 +25,7 @@ Dual offensive and defensive cybersecurity portfolio | March 2026 — January 20
 |---|---|---|
 | [SOC-Detection-Lab](https://github.com/jaypatel-sec/SOC-Detection-Lab) | LetsDefend investigations, SPL/KQL detection queries, threat hunt reports, YARA and Sigma rules | 🔄 In Progress |
 | [MITRE-ATTnCK-Coverage](https://github.com/jaypatel-sec/MITRE-ATTnCK-Coverage) | Combined offensive and defensive MITRE ATT&CK Navigator layer — live coverage map | 🔄 In Progress |
-| [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | 5 SOC automation Python tools — IOC enrichment, log parsing, alert triage | 🔄 In Progress |
+| [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | 5 defensive automation Python tools — IOC enrichment, log parsing, alert triage | 🔄 In Progress |
 
 ---
 
@@ -36,7 +36,6 @@ Dual offensive and defensive cybersecurity portfolio | March 2026 — January 20
 | CPTS Modules | 28 | 0 |
 | HTB Machines | 35+ | 0 |
 | AD Kill Chain Attacks | 9 | 0 |
-| SOC Investigations | 25+ | 0 |
 | SPL Detection Queries | 30+ | 0 |
 | Python Tools | 10 | 0 |
 | CTF Writeups | Ongoing | 0 |
@@ -47,7 +46,7 @@ Dual offensive and defensive cybersecurity portfolio | March 2026 — January 20
 
 | Certification | Target Date | Status |
 |---|---|---|
-| eJPT | May 2026 | Upcoming |
+| eJPT | May 2026 | 🔄 In Progress |
 | CompTIA Security+ | June 2026 | Upcoming |
 | Splunk Core Power User | August 2026 | Upcoming |
 | SC-200 Microsoft Sentinel | September 2026 | Upcoming |
