@@ -38,7 +38,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 
 | Platform | Subscription | Primary Use |
 |---|---|---|
-| HackTheBox Academy | Student | CPTS module study and skill labs |
+| HackTheBox Academy | Platinum | CPTS module study and skill labs |
 | HackTheBox | VIP | Retired machine writeups and Pro Labs |
 | TryHackMe | Premium | Structured learning paths and room writeups |
 | INE | Active | eJPT course and lab material |
