@@ -1,7 +1,7 @@
 # Offensive Security Portfolio — Jay Patel
 
 This is the central index for my penetration testing portfolio. I am an aspiring penetration tester
-working through a structured offensive security path — eJPT → CPTS → OSCP — with a target of
+working through a structured offensive security path — eJPT → CPTS → OSCP → CWEE → BSCP → OSWE — with a target of
 securing a penetration tester role in India by January 2027.
 
 Every repository in this portfolio is built around hands-on offensive work: real lab execution,
@@ -31,6 +31,9 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 | eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | May 2026 | 🔄 In Progress |
 | HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | December 2026 | ⏳ Upcoming |
 | OSCP (Offensive Security Certified Professional) | OffSec | 2027 | ⏳ Upcoming |
+| HTB CWEE (Certified Web Exploitation Expert) | HackTheBox | 2027 | ⏳ Upcoming |
+| BSCP (Burp Suite Certified Practitioner) | PortSwigger | 2027–2028 | ⏳ Upcoming |
+| OSWE (Offensive Security Web Expert) | OffSec | 2028 | ⏳ Upcoming |
 
 ---
 
