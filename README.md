@@ -1,6 +1,6 @@
 # Offensive Security Portfolio — Jay Patel
 
-This is the central index for my penetration testing portfolio. I am an aspiring penetration tester
+This is the central index for my penetration testing portfolio. I am a penetration tester
 working through a structured offensive security path — eJPT → CPTS → OSCP → CWEE → BSCP → OSWE — with a target of
 securing a penetration tester role in India by January 2027.
 
@@ -52,7 +52,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 
 | Area | Completed | Target |
 |---|---|---|
-| CPTS Modules Documented | 5 | 28 |
+| CPTS Modules Documented | 6 | 28 |
 | HTB Machines | 0 | 35+ |
 | TryHackMe Rooms | 5 | Ongoing |
 | AD Kill Chain Steps | 0 | 9 |
