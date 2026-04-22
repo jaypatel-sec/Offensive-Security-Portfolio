@@ -26,14 +26,14 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 
 ## Certification Roadmap
 
-| Certification | Provider | Target Date | Status |
-|---|---|---|---|
-| eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | May 2026 | 🔄 In Progress |
-| HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | December 2026 | ⏳ Upcoming |
-| OSCP (Offensive Security Certified Professional) | OffSec | 2027 | ⏳ Upcoming |
-| HTB CWES (Certified Web Exploitation Specialist) | HackTheBox | 2027 | ⏳ Upcoming |
-| BSCP (Burp Suite Certified Practitioner) | PortSwigger | 2027–2028 | ⏳ Upcoming |
-| OSWE (Offensive Security Web Expert) | OffSec | 2028 | ⏳ Upcoming |
+| Certification | Provider | Status |
+|---|---|---|
+| eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | 🔄 In Progress |
+| HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | ⏳ Upcoming |
+| OSCP (Offensive Security Certified Professional) | OffSec | ⏳ Upcoming |
+| HTB CWES (Certified Web Exploitation Specialist) | HackTheBox | ⏳ Upcoming |
+| BSCP (Burp Suite Certified Practitioner) | PortSwigger | ⏳ Upcoming |
+| OSWE (Offensive Security Web Expert) | OffSec | ⏳ Upcoming |
 
 ---
 
