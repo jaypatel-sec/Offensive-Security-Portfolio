@@ -18,7 +18,6 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 | [HTB-Academy-CPTS-Path](https://github.com/jaypatel-sec/HTB-Academy-CPTS-Path) | All HTB Academy CPTS modules documented service by service — enumeration steps, tool breakdown, real lab output, and lessons learned for each protocol | 🔄 Active |
 | [HTB-TryHackMe-Writeups](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups) | Full attack path writeups for retired HTB machines and TryHackMe rooms — every step from initial scan through privilege escalation with commands and reasoning | 🔄 Active |
 | [Active-Directory-Attack-Lab](https://github.com/jaypatel-sec/Active-Directory-Attack-Lab) | Complete 9-step AD kill chain executed in a home lab — LLMNR poisoning through DCSync — with prerequisites, exact commands, and real output at every stage | 🔄 Active |
-| [CTF-Writeups](https://github.com/jaypatel-sec/CTF-Writeups) | CTFtime competition writeups, SANS Holiday Hack 2026, THM Advent of Cyber 2026, and any VDP acknowledgements | 🔄 Ongoing |
 | [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | Python offensive security tools built for recon, enumeration, exploitation, and post-exploitation automation | ⏳ Upcoming |
 | [Pentest-Reports](https://github.com/jaypatel-sec/Pentest-Reports) | Professional penetration testing reports written to industry standard — executive summary, technical findings, CVSS scoring, and remediation guidance | ⏳ Month 8–9 |
 
@@ -57,7 +56,6 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 | TryHackMe Rooms | 6 | Ongoing |
 | AD Kill Chain Steps | 0 | 9 |
 | Python Offensive Tools | 0 | 5+ |
-| CTF Writeups | 0 | Ongoing |
 | Pentest Reports | 0 | 3 |
 
 ---
