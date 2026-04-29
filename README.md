@@ -1,12 +1,12 @@
 # Offensive Security Portfolio — Jay Patel
 
-This is the central index for my penetration testing portfolio. I am a penetration tester
-working through a structured offensive security path — eJPT → CPTS → OSCP → CWES → CRTO → OSWE — with a target of
-securing a penetration tester role in India by January 2027.
+Building toward a penetration testing career through a structured offensive security path —
+eJPT → CPTS → OSCP → CWES → CRTO → OSWE — with a target of securing a penetration tester
+role in India by January 2027.
 
 Every repository in this portfolio is built around hands-on offensive work: real lab execution,
 certification path modules, CTF writeups, and professional penetration testing reports.
-All documentation is written to the standard I would apply in a real client engagement —
+All documentation is written to the standard of an actual client engagement —
 clear methodology, exact commands, real output, and precise analysis of what each finding means.
 
 ---
@@ -19,7 +19,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 | [HTB-TryHackMe-Writeups](https://github.com/jaypatel-sec/HTB-TryHackMe-Writeups) | Full attack path writeups for retired HTB machines and TryHackMe rooms — every step from initial scan through privilege escalation with commands and reasoning | 🔄 Active |
 | [Active-Directory-Attack-Lab](https://github.com/jaypatel-sec/Active-Directory-Attack-Lab) | Complete 9-step AD kill chain executed in a home lab — LLMNR poisoning through DCSync — with prerequisites, exact commands, and real output at every stage | 🔄 Active |
 | [Custom-Tools](https://github.com/jaypatel-sec/Custom-Tools) | Python offensive security tools built for recon, enumeration, exploitation, and post-exploitation automation | ⏳ Upcoming |
-| [Pentest-Reports](https://github.com/jaypatel-sec/Pentest-Reports) | Professional penetration testing reports written to industry standard — executive summary, technical findings, CVSS scoring, and remediation guidance | ⏳ Month 8–9 |
+| [Pentest-Reports](https://github.com/jaypatel-sec/Pentest-Reports) | Professional penetration testing reports written to industry standard — executive summary, technical findings, CVSS scoring, and remediation guidance | ⏳ Upcoming |
 
 ---
 
