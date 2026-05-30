@@ -53,7 +53,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 |---|---|---|
 | CPTS Modules Documented | 11 | 28 |
 | HTB Machines | 20 | 35+ |
-| TryHackMe Rooms | 9 | Ongoing |
+| TryHackMe Rooms | 10 | Ongoing |
 | AD Kill Chain Steps | 0 | 9 |
 | Python Offensive Tools | 0 | 5+ |
 | Pentest Reports | 0 | 3 |
