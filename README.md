@@ -1,7 +1,7 @@
 # Offensive Security Portfolio — Jay Patel
 
 Building toward a penetration testing career through a structured offensive security path —
-eJPT → CPTS → OSCP → CWES → CRTO → OSWE — with a target of securing a penetration tester
+eJPT → CPTS → OSCP → CWES → CRTO → CRTL — with a target of securing a penetration tester
 role in India by January 2027.
 
 Every repository in this portfolio is built around hands-on offensive work: real lab execution,
@@ -27,12 +27,12 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 
 | Certification | Provider | Status |
 |---|---|---|
-| eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | 🔄 In Progress |
-| HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | ⏳ Upcoming |
+| eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | ✅ Completed |
+| HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | 🔄 In Progress |
 | OSCP (Offensive Security Certified Professional) | OffSec | ⏳ Upcoming |
 | HTB CWES (Certified Web Exploitation Specialist) | HackTheBox | ⏳ Upcoming |
 | CRTO (Certified Red Team Operator) | Zero-Point Security | ⏳ Upcoming |
-| OSWE (Offensive Security Web Expert) | OffSec | ⏳ Upcoming |
+| CRTL (Certified Red Team Lead) | Zero-Point Security | ⏳ Upcoming |
 
 ---
 
@@ -51,7 +51,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 
 | Area | Completed | Target |
 |---|---|---|
-| CPTS Modules Documented | 11 | 28 |
+| CPTS Modules Documented | 12 | 28 |
 | HTB Machines | 24 | 35+ |
 | TryHackMe Rooms | 11 | Ongoing |
 | AD Kill Chain Steps | 0 | 9 |
