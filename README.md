@@ -1,7 +1,7 @@
 # Offensive Security Portfolio — Jay Patel
 
 Building toward a penetration testing career through a structured offensive security path —
-eJPT → CPTS → OSCP → CWES → CPSA → CRT — with a target of securing a penetration tester
+eJPT → CPTS → OSCP → eWPTX → CPSA → CRT — with a target of securing a penetration tester
 role in India by January 2027.
 
 Every repository in this portfolio is built around hands-on offensive work: real lab execution,
@@ -31,7 +31,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 | eJPT (eLearnSecurity Junior Penetration Tester) | INE / eLearnSecurity | ✅ Completed |
 | HTB CPTS (Certified Penetration Testing Specialist) | HackTheBox | 🔄 In Progress |
 | OSCP (Offensive Security Certified Professional) | OffSec | ⏳ Upcoming |
-| HTB CWES (Certified Web Exploitation Specialist) | HackTheBox | ⏳ Upcoming |
+| eWPTX (Web Application Penetration Tester eXtreme) | INE / eLearnSecurity | ⏳ Upcoming |
 | CPSA (CREST Practitioner Security Analyst) | CREST | ⏳ Upcoming |
 | CRT (CREST Registered Tester) | CREST | ⏳ Upcoming |
 | AZ-900 (Azure Fundamentals) | Microsoft | ⏳ Upcoming |
