@@ -53,7 +53,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 
 | Area | Completed | Target |
 |---|---|---|
-| CPTS Modules Documented | 16 | 28 |
+| CPTS Modules Documented | 17 | 28 |
 | HTB Machines | 31 | 35+ |
 | TryHackMe Rooms | 11 | Ongoing |
 | AD Kill Chain Steps | 0 | 9 |
