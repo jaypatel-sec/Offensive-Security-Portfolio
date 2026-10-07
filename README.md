@@ -55,7 +55,7 @@ clear methodology, exact commands, real output, and precise analysis of what eac
 |---|---|---|
 | CPTS Modules Documented | 25 | 28 |
 | HTB Machines | 31 | 35+ |
-| HTB Web Challenges | 5 | 9+ |
+| HTB Web Challenges | 6 | 9+ |
 | TryHackMe Rooms | 11 | Ongoing |
 | AD Kill Chain Steps | 0 | 9 |
 | Python Offensive Tools | 0 | 5+ |
